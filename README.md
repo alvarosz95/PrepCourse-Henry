@@ -1,1 +1,1 @@
-este proyecto es una prueba de como crear un repositorio de manera local y subirlo al github
+este proyecto es una prueba de como crear un repositorio de manera local y subirlo al github con x360
